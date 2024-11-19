@@ -1,0 +1,15 @@
+
+Ali Lace Shop
+Shop Number 69, Shah Alam Market
+Mob: 9905164023
+Receipt No: 1731973982816
+Date: 2024-11-19 04:53:02
+Customer Name: talha
+
+S.No    Particulars    Quantity    Price    Amount
+1	green lace	60	20	1200
+2	button	3	10	30
+
+Total: 1230
+Amount in Words: one thousand, two hundred thirty only
+Thank you for shopping with us!

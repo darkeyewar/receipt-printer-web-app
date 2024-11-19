@@ -1,0 +1,15 @@
+
+Ali Lace Shop
+Shop Number 69, Shah Alam Market
+Mob: 9905164023
+Receipt No: 1731973121910
+Date: 2024-11-19 04:38:41
+Customer Name: Ali Hamza
+
+S.No    Particulars    Quantity    Price    Amount
+1	bottle	2	500	1000
+2	glass	10	60	600
+
+Total: 1600
+Amount in Words: one thousand, six hundred only
+Thank you for shopping with us!

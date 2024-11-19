@@ -1,0 +1,14 @@
+
+Ali Lace Shop
+Shop Number 69, Shah Alam Market
+Mob: 9905164023
+Receipt No: 1731973652955
+Date: 2024-11-19 04:47:32
+Customer Name: supreme leader
+
+S.No    Particulars    Quantity    Price    Amount
+1	eggs	12	20	240
+
+Total: 240
+Amount in Words: two hundred forty only
+Thank you for shopping with us!

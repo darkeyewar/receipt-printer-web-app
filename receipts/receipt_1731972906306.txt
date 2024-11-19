@@ -1,0 +1,15 @@
+
+Ali Lace Shop
+Shop Number 69, Shah Alam Market
+Mob: 9905164023
+Receipt No: 1731972906306
+Date: 2024-11-19 04:35:06
+Customer Name: Mani
+
+S.No    Particulars    Quantity    Price    Amount
+1	eggs	12	20	240
+2	pink lace	2	2500	5000
+
+Total: 5240
+Amount in Words: five thousand, two hundred forty only
+Thank you for shopping with us!

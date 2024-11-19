@@ -1,0 +1,14 @@
+
+Ali Lace Shop
+Shop Number 69, Shah Alam Market
+Mob: 9905164023
+Receipt No: 1731975054486
+Date: 2024-11-19 05:10:54
+Customer Name: musa
+
+S.No    Particulars    Quantity    Price    Amount
+1	lace	5	5000	25000
+
+Total: 25000
+Amount in Words: twenty-five thousand only
+Thank you for shopping with us!
