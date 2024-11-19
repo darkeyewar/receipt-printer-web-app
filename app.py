@@ -38,7 +38,7 @@ def create_receipt():
         receipt_content = f"""
 Ali Lace Shop
 Shop Number 69, Shah Alam Market
-Mob: 9905164023
+Mob: 0306-1632806
 Receipt No: {receipt_number}
 Date: {date_time}
 Customer Name: {customer_name}
